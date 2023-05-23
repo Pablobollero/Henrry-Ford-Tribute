@@ -1,0 +1,113 @@
+#main {
+    background-image: url(../img/fordbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    text-align: center;
+    padding: 0%;
+    margin: 15px;
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#img-div {
+    background-color: whitesmoke;
+    padding: 10px 10px 25px 10px;
+    text-align: center;
+    max-width: 250px;
+}
+
+h5 {
+    margin: 25px 0px 0px 0px;
+}
+
+#title,
+h5 {
+    text-align: center;
+    padding: 0%;
+}
+
+#image {
+    display: block;
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    width: 250px;
+}
+
+#img-caption {
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#tribute-info {
+    display: inline-block;
+    background-color: whitesmoke;
+    opacity: 0.80;
+    color: rgb(0, 0, 0);
+    max-width: 500px;
+    min-width: 500px;
+    font-size: 11px;
+}
+
+body {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+li::marker {
+    content: '♠';
+    font-size: 1em;
+}
+
+li {
+    margin: 15px;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#tributelink {
+    color: black;
+}
+
+footer {
+    background-color: whitesmoke;
+    font-size: 10px;
+    opacity: 0.85;
+    text-align: right;
+}
+
+#tribute-link {
+    text-decoration: none;
+    font-size: 25px;
+}
+
+#tribute-info>strong {
+    font-weight: bolder;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: yellowgreen;
+}
+
+a:active {
+    color: yellow;
+}
