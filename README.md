@@ -1,25 +1,25 @@
 # Tribute Page to Henry Ford
 
-## Descripción
-Este proyecto es una página de tributo a Henry Ford. Utiliza HTML y CSS para presentar información clave sobre la vida y los logros de Henry Ford, incluyendo:
+## Description
+This project is a tribute page to Henry Ford. It utilises HTML and CSS to present key information about Henry Ford's life and achievements, including:
 
-- Su nacimiento y primeros años.
-- La fundación de Ford Motor Company.
-- Innovaciones en la fabricación de automóviles, como el Modelo T y la línea de montaje.
+- His birth and early years.
+- The foundation of the Ford Motor Company.
+- Innovations in automobile manufacturing, such as the Model T and the assembly line.
 
-## Aprendizajes
-Durante la elaboración de este proyecto, se adquirieron habilidades en:
+## Learnings
+During the creation of this project, skills were acquired in:
 
-- HTML: Estructuración de contenido web con etiquetas semánticas.
-- CSS: Diseño y estilización de la página web.
+- HTML: Structuring web content with semantic tags.
+- CSS: Designing and styling the web page.
 
-## Vista General
-La página contiene:
+## Overview
+The page contains:
 
-- Un encabezado principal y un subtítulo.
-- Una imagen de Henry Ford con una leyenda.
-- Una lista de eventos importantes en su vida y carrera.
-- Enlace para obtener más información.
+- A main header and a subtitle.
+- An image of Henry Ford with a caption.
+- A list of significant events in his life and career.
+- A link for more information.
 
-## Créditos
-Creado por Pablo Bollero - 05/04/2023
+## Credits
+Created by Pablo Bollero - 05/04/2023
